@@ -1,0 +1,7 @@
+1-) Phpmyadmin giriþ yaparak 1 database oluþturun, 3 kolondan oluþmalýdýr.
+kolon isimleri id, kad, kfre olmalýdýr. id kolonunu AI iþaretleyerek otomatik yapýlmalýdýr.
+2-)https://www.youtube.com/channel/UC6h6YGxgcIrAWfPx93B882g?view_as=subscriber adresinden videoyu izleyerek gerekli yerleri düzenleyiniz.
+
+Siteniz hazýr. 
+
+STALKER-BEDO
